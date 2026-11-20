@@ -1,0 +1,6 @@
+organization=zakaria-lab
+projectKey=zakaria-lab_credit-quality
+serverUrl=https://sonarcloud.io
+dashboardUrl=https://sonarcloud.io/dashboard?id=zakaria-lab_credit-quality
+ceTaskId=AaH5Qg1wpgxRpfzmh0yH
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AaH5Qg1wpgxRpfzmh0yH
